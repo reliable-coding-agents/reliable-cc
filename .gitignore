@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# C/C++ compiler, coverage, and build-system outputs
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.gcda
+*.gcno
+*.gcov
+/compile_commands.json
+/CMakeCache.txt
+/cmake_install.cmake
+/.ninja_deps
+/.ninja_log
+
+.DS_Store
+.worktrees/
+.superpowers/

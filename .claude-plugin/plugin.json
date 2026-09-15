@@ -1,0 +1,20 @@
+{
+  "name": "reliable-cc",
+  "description": "Audits C and C++ with Power of Ten checks and advisory SOLID review",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jiho Han",
+    "email": "jihohan@simplatform.com",
+    "url": "https://github.com/sciencejiho"
+  },
+  "repository": "https://github.com/reliable-coding-agents/reliable-cc",
+  "license": "MIT",
+  "keywords": [
+    "c",
+    "cpp",
+    "c-plus-plus",
+    "code-quality",
+    "codex",
+    "claude-code"
+  ]
+}

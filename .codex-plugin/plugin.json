@@ -1,0 +1,36 @@
+{
+  "name": "reliable-cc",
+  "version": "0.1.0",
+  "description": "Audits C and C++ with Power of Ten checks and advisory SOLID review",
+  "author": {
+    "name": "Jiho Han",
+    "email": "jihohan@simplatform.com",
+    "url": "https://github.com/sciencejiho"
+  },
+  "repository": "https://github.com/reliable-coding-agents/reliable-cc",
+  "license": "MIT",
+  "keywords": [
+    "c",
+    "cpp",
+    "c-plus-plus",
+    "code-quality",
+    "codex",
+    "claude-code"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Reliable C/C++",
+    "shortDescription": "Power of Ten audits and SOLID review for C/C++",
+    "longDescription": "Dependency-free source checks, optional exact-command Clang analysis, Power of Ten guidance, advisory SOLID review, and a one-pass changed-line completion gate for C and C++.",
+    "developerName": "Jiho Han",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Audit my changed C/C++ code and explain the coverage.",
+      "Review this C++ design using Power of Ten and SOLID."
+    ]
+  }
+}

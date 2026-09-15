@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reliable C/C++"
+  short_description: "Route Reliable C/C++ checks and reviews"
+  default_prompt: "Use $using-reliable-cc to select and apply the relevant C/C++ reliability workflows."

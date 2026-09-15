@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply C/C++ Power of Ten"
+  short_description: "Review C/C++ against Power of Ten rules"
+  default_prompt: "Use $applying-power-of-ten-to-c-cpp to review this C or C++ change without overstating audit coverage."

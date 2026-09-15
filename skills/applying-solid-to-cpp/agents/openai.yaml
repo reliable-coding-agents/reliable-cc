@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apply SOLID to C++ and C"
+  short_description: "Review C++ classes and C APIs with SOLID"
+  default_prompt: "Use $applying-solid-to-cpp to review this C++ or C design as evidence, not certification."

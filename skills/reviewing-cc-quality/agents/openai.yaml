@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review C/C++ Quality"
+  short_description: "Run and interpret Reliable C/C++ audits"
+  default_prompt: "Use $reviewing-cc-quality to audit these C/C++ changes and interpret coverage, status, and gate behavior."
